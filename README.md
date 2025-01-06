@@ -4,6 +4,9 @@ VentoCart is a high-performance fork of OpenCart 4, featuring extensive optimiza
 and modern e-commerce capabilities. With a focus on cutting-edge features, VentoCart includes a completely revamped 
 architecture, a premium default theme, and integrated PayPal and Stripe support for secure payments, including client card saving 
 and subscription payment options.
+
+NOTE: The project has entered in a beta phase, for a stable release use
+ https://github.com/captainerd/VentoCart/tree/665cee54831bce1b19cf03110ba4d494ceef630f
  
  
 ## Key Features:
